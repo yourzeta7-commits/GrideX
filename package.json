@@ -1,0 +1,10 @@
+{
+  "name": "gridex",
+  "version": "2.0.0",
+  "description": "GrideX - calendar, weekly routine, must-dos, focus sessions and rewards with Google or Gmail sign-in",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
